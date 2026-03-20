@@ -40,7 +40,7 @@ Snap of new calculated column ,
 - Step 7 : Created a line chart to represent Order Quantity by Month using order date and sum of order quantity.
 ![Snap_1](https://github.com/Chaithrakulal-23/Sales-Profit-Analysis-Dashboard-Tableau-/blob/168dcbd995927751bf2c9df644199f3b028cd902/line-d1.png)
 - Step 8 : Built a scatter plot to analyze the relationship between Sales and Profit, using customer name in the detail shelf to show individual data points.
-![Snap_1]()
+![Snap_1](https://github.com/Chaithrakulal-23/Sales-Profit-Analysis-Dashboard-Tableau-/blob/5ceef51e6ef08f01b94420255a8eb54090e53224/scatter-d1.png)
 - Step 9 : Designed a dashboard by combining all visuals and formatted it properly.
 
 - Step 10 : Enabled interactivity by applying filters so that all charts are connected and respond dynamically to user selections.
