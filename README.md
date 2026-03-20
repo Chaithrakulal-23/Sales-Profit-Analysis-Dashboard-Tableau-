@@ -1,6 +1,6 @@
 # Sales & Profit Analysis Dashboard (Tableau)
 
-### Dashboard Link : 
+### Dashboard Link : https://github.com/Chaithrakulal-23/Sales-Profit-Analysis-Dashboard-Tableau-/blob/e06f69a38a0026e9216c6a6faf791454d6ce7c07/TableauDASHBOARD1.twb
 ## Problem Statement
 
 This dashboard helps analyze sales, profit, and order performance across different regions and customer segments. It enables better understanding of how profit is distributed, how much each region contributes to overall sales, and how order quantity changes over time.
