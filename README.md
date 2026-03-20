@@ -25,7 +25,7 @@ The dashboard also highlights the relationship between sales and profit, helping
         if(airline_passenger_satisfaction[Age]<=75, "50-75 (75 included)",
         
         "75-100 (100 included)")))
-  ![Snap_1](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+  ![Snap_1](https://github.com/Chaithrakulal-23/Sales-Profit-Analysis-Dashboard-Tableau-/blob/7dc8835aac8930aa7a022cc5e3723f5c0d317005/TAB1.png)
 
 Snap of new calculated column ,
 
