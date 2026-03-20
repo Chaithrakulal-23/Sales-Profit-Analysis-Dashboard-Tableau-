@@ -38,7 +38,7 @@ Snap of new calculated column ,
 - Step 6 : In another sheet, created a pie chart to represent Percentage Sales Contribution and Sales by Region using sum of sales and region-based coloring, along with percentage labels.
 ![Snap_1](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
 - Step 7 : Created a line chart to represent Order Quantity by Month using order date and sum of order quantity.
-![Snap_1](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Snap_1](https://github.com/Chaithrakulal-23/Sales-Profit-Analysis-Dashboard-Tableau-/blob/168dcbd995927751bf2c9df644199f3b028cd902/line-d1.png)
 - Step 8 : Built a scatter plot to analyze the relationship between Sales and Profit, using customer name in the detail shelf to show individual data points.
 ![Snap_1](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
 - Step 9 : Designed a dashboard by combining all visuals and formatted it properly.
