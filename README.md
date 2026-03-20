@@ -7,7 +7,7 @@ This dashboard helps analyze sales, profit, and order performance across differe
 
 The dashboard also highlights the relationship between sales and profit, helping identify high-revenue but low-profit customers.
 
----
+
 
 ### Steps followed 
 
@@ -45,12 +45,12 @@ Snap of new calculated column ,
 
 - Step 10 : Enabled interactivity by applying filters so that all charts are connected and respond dynamically to user selections.
 
----
+
 
 # Snapshot of Dashboard
 
-![Snap_1](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
----
+![Snap_1](https://github.com/Chaithrakulal-23/Sales-Profit-Analysis-Dashboard-Tableau-/blob/5ceef51e6ef08f01b94420255a8eb54090e53224/scatter-d1.png)
+
 
 # Insights
 
