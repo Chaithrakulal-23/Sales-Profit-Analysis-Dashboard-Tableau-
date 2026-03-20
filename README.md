@@ -29,7 +29,7 @@ The dashboard also highlights the relationship between sales and profit, helping
 
 Snap of new calculated column ,
 
-![Snap_1](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Snap_1](https://github.com/Chaithrakulal-23/Sales-Profit-Analysis-Dashboard-Tableau-/blob/af71c07f06a59fdc3255891bcbfbe9cb43f178f7/TABD1.1.png)
 
 - Step 4 : Applied the Unit Price Group field as a filter across all charts for dynamic analysis.
 
